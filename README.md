@@ -1,7 +1,5 @@
-<h1 align="center">Calculadora</h1>
-<p align="center">Uma simples calculadora... ( + − × ÷ )</p>
+<h1 align="center">Calculator</h1>
 
-<br>
 <div align="center">
   <img src="https://img.shields.io/badge/License-MIT-000?style=social&logo=json&logoColor=469BD2">
   &nbsp;
@@ -9,39 +7,48 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Python-000?style=social&logo=python&logoColor=469BD2">
 </div>
-<br>
 
-## 💻 Situação do projeto:
+## 🗣️ ReadMe:
 
-- Projeto finalizado ✔️
+- English
+- [Portuguese](https://github.com/ArthurVBS/PyCalculator/blob/main/README-pt.md)
 
-## 🛠 Tecnologias:
+## ✨ About the project:
+
+- ➕ A simple calculator using graphical interface (GUI).
+
+## 💻 Project status:
+
+- Finished project ✔️
+
+## 🛠 Technologies:
 
 - Python
 - Tkinter (GUI)
 
 ## 📝 Features:
 
-- [x] Cálculos com parênteses
+- [x] Do all basic operations.
+- [x] Allow to calculate with parentheses.
 
-## ⚙️ Pré-requisitos:
+## ⚙️ Prerequisites:
 
-- Python 3 instalado (Preferencialmente > 3.8)
+- Python (^3.9.4)
 
-## 🚀 Como rodar a aplicação?
+## 🚀 How to run the application?
 
-1. Baixe o arquivo .Zip e o descompacte.
-2. Abra a pasta em seu cmd (prompt de comando).
-3. Execute a aplicação: 
-    - `#Windows: python main.py`
-    - `#Linux/Mac: python3 main.py`
+- 💻 Download the ZIP or Clone the application on your machine,
+- Open a CMD in the root of the project folder,
+- Run the application: 
+    - Windows: `python main.py`
+    - Linux/Mac: `python3 main.py`
 
-## 📝 Licença
+## 📝 License
 
-- Este projeto está sobe a licença [MIT](https://github.com/ArthurVBS/PyCalculator/blob/main/LICENSE)
+- This project is licensed under the [MIT](https://github.com/ArthurVBS/PyCalculator/blob/main/LICENSE)
 
-<h2 align="center">👨🏽‍💻 Autor</h2>
+<h2 align="center">👨🏽‍💻 Author</h2>
 <div align="center">
-  <img width="100px;" src="https://avatars.githubusercontent.com/u/84406367?v=4" alt="Foto do autor"/>
-  <br><span>Feito por <a href="https://github.com/ArthurVBS" target="_blank" rel="external">Arthur V.B.S</a>✌🏽</span>
+  <img width="100px;" src="https://avatars.githubusercontent.com/u/84406367?v=4" alt="Author's photo"/>
+  <br><span>Made by <a href="https://github.com/ArthurVBS" target="_blank" rel="external">Arthur V.B.S</a>✌🏽</span>
 </div>
